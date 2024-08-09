@@ -1,0 +1,44 @@
+@import url("../style.css/bootstrap.css/bootstrap.css");
+body {
+    background-color: beige;
+}
+
+#texto_principal {
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 40px;
+}
+
+.cadastro-email{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 15px;
+}
+
+.cadastro-senha{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 15px;
+}
+.regulamento{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 15px;
+}
+#redirecionamento{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-left: 680px;
+    margin-top: 15px;
+}   
+
+#menu_opcoes{
+    display: flex ;
+    justify-content: right;
+    margin-right: 20px;
+    margin-top: -20px;
+}
